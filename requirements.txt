@@ -5,3 +5,4 @@ openai
 langchain
 sentence-transformers
 dotenv
+faiss-cpu
