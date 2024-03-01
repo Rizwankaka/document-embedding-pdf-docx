@@ -3,3 +3,5 @@ PyPDF2
 openai
 langchain
 dotenv
+streamlit_chat
+sentence_transformers
